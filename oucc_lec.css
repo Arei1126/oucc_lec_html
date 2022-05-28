@@ -1,0 +1,9 @@
+p.mel{ color: #303030;}
+div.all{
+  background-color: grey;
+  color: black;
+}
+a{ color: grey;}
+a:hover{color: blue;}
+h1{font-size: 150%}
+h2{font-size: 100%}
